@@ -1,0 +1,15 @@
+.result-card {
+	color: white;
+	background: #210841;
+	margin: 5px 10px;
+	padding: 5px 20px;
+	border-radius: 12px;
+}
+
+.link {
+	text-decoration: none;
+}
+
+.result-card:hover {
+	background: #42037c;
+}
